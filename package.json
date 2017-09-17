@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-crud",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "webpack -p",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^21.0.2",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "immutability-helper": "^2.3.1",
+    "jest": "^21.1.0",
+    "lodash": "^4.17.4",
+    "redux": "^3.7.2",
+    "webpack": "^3.6.0"
+  }
+}
